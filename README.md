@@ -73,3 +73,8 @@ Device pinged both the gateway and the external host
 WLAN STATION example executed successfully 
 ```
 
+Flash your example from Ubuntu or BeagleBone Black
+---------------------
+Check tools folder for further details.
+
+

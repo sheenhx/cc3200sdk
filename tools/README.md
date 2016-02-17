@@ -10,7 +10,7 @@ And additionally we test flashing from BBB debian(Not released yet). Courtesy of
 
 Setup
 ---------------------
-![BBB+CC3200](https://github.com/sheenhx/cc3200sdk/tools/energia-0101E0017/BBB.jpg "BBB+CC3200")
+![BBB+CC3200](https://github.com/sheenhx/cc3200sdk/blob/master/tools/energia-0101E0017/BBB.jpg "BBB+CC3200")
 
 Remove all the SOP2 jumpers and connect J8 like shown in picture above.
 In this way we dont' have to remove any jumper when we flash images from BBB or Ubuntu 64bits.
