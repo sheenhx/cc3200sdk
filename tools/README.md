@@ -49,3 +49,10 @@ Download complete
 ```
 
 After it is completed, the program will automatically run.
+
+When you are using Jessie, you will have an error about a missing library called libudev, please enter the following:
+```
+sudo ln -s /lib/arm-linux-gnueabihf/libudev.so.1 /usr/lib/libudev.so.0
+
+```
+
